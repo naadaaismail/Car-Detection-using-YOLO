@@ -40,6 +40,7 @@ machine learning framework that accelerates the path from
 research prototyping to production deployment
 
 ** Result **
+
 The dataset had been tested by these two models which
 were YOLOv5s and YOLOv7. The car dataset was trained
 for 20 epochs in two models. Key assets of the training
@@ -61,6 +62,7 @@ YOLOv5.
 ![](images/Screenshot 2022-12-16 045300.png)
  
  ** Conclusion **
+ 
  The mAP@0.5 of the YOLOv5 and YOLOv7 model on the
 training set of data was 85.2% and72.6% respectively
 therefore the Yolov5 higher than Yolov7. the detection time
